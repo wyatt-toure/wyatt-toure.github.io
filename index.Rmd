@@ -1,0 +1,33 @@
+---
+title: ""  
+output:
+  distill::distill_article:
+    self_contained: false
+site: distill::distill_website
+listing: posts
+---
+
+<style>
+  .index-photo{
+  max-width: 100%;
+}
+</style>
+
+
+<div class='index-title' style="">
+# Behavioural & Genetic Evolution
+</div>
+
+<div class="container">
+<div class="row">
+<img src="images/index-logo.png" alt="website logo" class = "index-photo">
+</div>
+</div>
+
+<span style="display:inline-block; width: max-width;"></span>
+
+<div class="container">
+<div class="row">
+<p style="text-align:center">Welcome to the website of [Wyatt Toure](about.html). Here you'll find what I'm up to currently.</p>
+</div>
+</div>

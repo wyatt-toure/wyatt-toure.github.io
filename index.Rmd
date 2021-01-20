@@ -28,6 +28,6 @@ listing: posts
 
 <div class="container">
 <div class="row">
-<p style="text-align:center">Welcome to the website of [Wyatt Toure](about.html). Here you'll find what I'm up to currently.</p>
+<p style="text-align:center">Welcome to a draft version of the website of [Wyatt Toure](about.html). Here you'll find what I'm up to currently.</p>
 </div>
 </div>

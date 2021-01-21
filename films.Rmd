@@ -50,7 +50,9 @@ aim to bring back native plants and animals by undertaking rigorous restoration 
 of the Kelly Hayfields demonstrates that present-day actions cascade into the future, and we
 may never see the outcome. As values shift and generations of land stewards come and go, it is
 clear that we must care about environmental consequences for those people, plants, and
-animals who will live in the future. Below is a preview, the full video can be found [here](https://vimeo.com/363666875/6b37526a61).
+animals who will live in the future. 
+
+Below is a preview, the full video can be found [here](https://vimeo.com/363666875/6b37526a61).
  
 
 <style>
@@ -65,7 +67,9 @@ animals who will live in the future. Below is a preview, the full video can be f
 
 ### Coiba: From Prison to Biodiversity Sanctuary 
 
-Once a deadly prison on an Island meant to keep prisoners in, Coiba is now a biodiversity sanctuary. Its past as a penal colony means that the ecosystem was left undisturbed, inadvertently creating one of the most biologically pristine sites in Panama. Now students and interested peoples from around the world can come to Coiba to learn about biodiversity and the science that goes into understanding it. Below is a preview,  the full video can be found [here](https://www.youtube.com/watch?v=Pl11OsmO0C0).  
+Once a deadly prison on an Island meant to keep prisoners in, Coiba is now a biodiversity sanctuary. Its past as a penal colony means that the ecosystem was left undisturbed, inadvertently creating one of the most biologically pristine sites in Panama. Now students and interested peoples from around the world can come to Coiba to learn about biodiversity and the science that goes into understanding it. 
+
+Below is a preview, the full video can be found [here](https://www.youtube.com/watch?v=Pl11OsmO0C0).  
 
 <video class = "vid" controls>
   <source src="images/coiba-short.mp4" type="video/mp4">

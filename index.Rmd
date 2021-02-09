@@ -3,7 +3,9 @@ title: ""
 output:
   distill::distill_article:
     self_contained: false
+    anchor_sections: FALSE
 site: distill::distill_website
+css: [theme.css]
 listing: posts
 ---
 
@@ -20,7 +22,7 @@ listing: posts
 
 <div class="container">
 <div class="row">
-<img src="images/index-logo.png" alt="website logo" class = "index-photo">
+<img src="images/index-logo2.png" alt="website logo" class = "index-photo">
 </div>
 </div>
 

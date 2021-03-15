@@ -1,4 +1,4 @@
-name: "my-website"
+name: "wyatt's-website"
 title: "Wyatt Toure"
 theme: theme.css
 description: |
@@ -17,9 +17,9 @@ navbar:
       href: films.html
     - text: "Guides"
       menu:
-        - text: "Automated Animal Tracking"
-          href: https://wyatt-toure.github.io/animal-tracking-guide/
-        - text: "SmartLab [Coming Soon]"
+        - text: "Automated Animal Tracking [Coming Soon]"
+          href: https://github.com/wyatt-toure/animal-tracking-guide
+        - text: "SmartLab [Coming not so soon]"
           href: https://github.com/wyatt-toure/making-a-smart-lab
     - icon: fab fa-github
       href: https://github.com/wyatt-toure

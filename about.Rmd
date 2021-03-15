@@ -25,7 +25,7 @@ title: "About me"
 <div class="column-left">
 <figure>
   <img src="images/me.jpg" alt="headshot" class="me">
-  <figcaption>This was taken by photographer Alex Tran as part of a project where researchers had their data projected back onto them. My face has traces generated from tracking a guppy with computer vision during a learning experiment. See more of Alex's work [here](https://alextran.ca/data-projections) See my guide on computer vision [here](https://wyatt-toure.github.io/animal-tracking-guide/).</figcaption>
+  <figcaption>This was taken by photographer Alex Tran as part of a project where researchers had their data projected back onto them. My face has traces generated from tracking a guppy with computer vision during a learning experiment. See more of Alex's work [here](https://alextran.ca/data-projections).
 </figure>
 </div>
 

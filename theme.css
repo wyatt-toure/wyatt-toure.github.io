@@ -73,6 +73,15 @@ d-appendix {
   --bkgd-color:       #153845;
 }
 
+/*-- Commenting out position will prevent the nav bar from disappearing --*/
+.headroom {
+    z-index: 1000;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 

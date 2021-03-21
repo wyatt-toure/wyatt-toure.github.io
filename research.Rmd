@@ -66,6 +66,7 @@ To validate whether learning was possible with this automated method, Beatriz co
 </div>
 
 <div class="column-right">
+<img src="images/GLoW-drawing.svg" class="me">
   <img src="images/guppy-learning-chamber-sample-trial.gif" class="me" />
 </div>
 </div>

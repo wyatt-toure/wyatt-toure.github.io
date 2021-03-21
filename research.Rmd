@@ -53,9 +53,9 @@ To track animals automatically I use computer-vision scripts made via Python pro
 <div class="row">
 <div class="column-left">
 
-I supervised the Honour's project of Beatriz Quineche. We designed automated methods for conducting behavioural experiments in guppies. We (mainly Beatriz) designed an automatic feeder using a Raspberry Pi 4 and Python programming to automate the conduction of learning experiments in guppies. This was particularly given COVID restrictions meant lab access was limited — with this setup experiments could be conducted from home.
+I supervised the Honour's project of Beatriz Quineche. We (mainly Beatriz) designed an automatic experimental setup using a Raspberry Pi 4 and Python programming to automate the conduction of learning experiments in guppies. This was particularly useful given COVID restrictions meant lab access was limited — with this setup experiments could be conducted from home.
 
-To validate whether learning was possible with this automated method, Beatriz conducted a simple proof-of-concept, classical conditioning learning experiment where fish would learn that a light stimulus predicts feeding time. We incorporated automated tracking to collect the data. You can see the design of the apparatus, documentation for the hardware setup of the chamber as well as the Python code required to run the chamber, documentation for the R code to analyse the data and sample footage of the learning chamber at this site: [coming soon].
+To validate whether learning was possible with this automated method, Beatriz conducted a simple proof-of-concept, classical conditioning learning experiment where fish would learn that a light stimulus predicts feeding time. We incorporated automated tracking to collect the data. You can learn more about this at the project site for this experiment: [coming soon].
 
 </div>
 

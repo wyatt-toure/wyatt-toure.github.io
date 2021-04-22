@@ -19,6 +19,8 @@ navbar:
       menu:
         - text: "Automated Animal Tracking [Coming Soon]"
           href: https://github.com/wyatt-toure/animal-tracking-guide
+        - text: "Project documentation with GitHub and R"
+          href: https://wyatt-toure.github.io/github-and-R-project-guide
         - text: "SmartLab [Coming not so soon]"
           href: https://github.com/wyatt-toure/making-a-smart-lab
     - icon: fab fa-github

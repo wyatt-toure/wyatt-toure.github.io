@@ -34,7 +34,7 @@ I am broadly interested in **<span style="color: #153845;">evolutionary and beha
 
 I want to understand how species and individuals adapt to their environments through their behaviour by uncovering the mechanisms generating **<span style="color: #153845;">behavioural diversity</span>** and link this information to its **<span style="color: #153845;">ecological and evolutionary context</span>**.
 
-In answering these questions I leverage **<span style="color: #153845;">Python programming</span>**, and **<span style="color: #153845;">computer vision</span>** to automate either the conduction of experiments or the collection of data or both, allowing me to collect high resolution data in a standardized manner. In addition to research I have interests in scientific media, producing short films and videos on various aspects of biology.
+In answering these questions I leverage guppies, **<span style="color: #153845;">Python programming</span>**, and **<span style="color: #153845;">computer vision</span>** to automate either the conduction of experiments or the collection of data or both, allowing me to collect higher resolution data than I can by doing collection manually. In addition to research I have interests in scientific media, producing short films and videos on various aspects of biology.
 </div>
 </div>
 </div>

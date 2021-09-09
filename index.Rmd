@@ -17,7 +17,7 @@ listing: posts
 
 
 <div class='index-title' style="">
-# Behavioural & Genetic Evolution
+# Investigating Mechanisms of Evolution
 </div>
 
 <div class="container">

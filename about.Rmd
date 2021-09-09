@@ -25,16 +25,28 @@ title: "About me"
 <div class="column-left">
 <figure>
   <img src="images/me.jpg" alt="headshot" class="me">
-  <figcaption>This was taken by photographer Alex Tran as part of a project where researchers had their data projected back onto them. My face has traces generated from tracking a guppy with computer vision during a learning experiment. See more of Alex's work [here](https://alextran.ca/data-projections).
+  <figcaption>This was taken by photographer Alex Tran as part of a project where researchers
+had their data projected back onto them. My face has traces generated from
+tracking a guppy with computer vision during a learning experiment. See more of
+Alex's work [here](https://alextran.ca/data-projections).
 </figure>
 </div>
 
 <div class="column-right">
-I am broadly interested in **<span style="color: #153845;">evolutionary and behavioural biology.</span>**
+I am broadly interested in **<span style="color: #153845;">evolutionary
+biology.</span>**
 
-I want to understand how species and individuals adapt to their environments through their behaviour by uncovering the mechanisms generating **<span style="color: #153845;">behavioural diversity</span>** and link this information to its **<span style="color: #153845;">ecological and evolutionary context</span>**.
+I want to understand how species and individuals adapt to their environments by
+**<span style="color: #153845;">uncovering the molecular and developmental
+mechanisms generating adaptive phenotypes</span>**.
 
-In answering these questions I leverage guppies, **<span style="color: #153845;">Python programming</span>**, and **<span style="color: #153845;">computer vision</span>** to automate either the conduction of experiments or the collection of data or both, allowing me to collect higher resolution data than I can by doing collection manually. In addition to research I have interests in scientific media, producing short films and videos on various aspects of biology.
+In answering these questions I leverage guppies,
+**<span style="color: #153845;">programming</span>**, and
+**<span style="color: #153845;">computer vision</span>** to automate either the
+conduction of experiments or the collection of data or both, allowing me to
+collect higher resolution positional data than I can by doing collection
+manually. In addition to research I have interests in scientific media,
+producing short films and videos on various aspects of biology.
 </div>
 </div>
 </div>

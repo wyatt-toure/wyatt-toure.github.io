@@ -55,9 +55,11 @@ difficult colour for guppies to forage from as a result of constraints arising
 from either evolutionary or mechanistic constraints. More work would be needed
 to be sure.
 
-You can read more about this work at the site for the project at
-<https://wyatt-toure.github.io/guppy-colour-learning/>. The manuscript is
-currently in revision.
+This project is published as [Toure, M. W., & Reader, S. M. (2021). Colour
+biases in learned foraging preferences in Trinidadian guppies.
+Ethology, 00, 1-12](https://doi.org/10.1111/eth.13237). You can read more
+supplementary details about this work at the website for the project at
+<https://wyatt-toure.github.io/guppy-colour-learning/>.
 
 </div>
 
